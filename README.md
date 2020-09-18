@@ -2,8 +2,8 @@
 <head> 
        <h1 align = "center"> Hello World </h1>
 <style>    
-       <Hello World>
+       <h1=Hello World>
               color: #6699ff;
-              </Hello World>
+              </h1=Hello World>
        </style>       
 </head>
