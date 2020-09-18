@@ -4,6 +4,6 @@
 <style>    
        <Hello World>
               color: #6699ff;
-              <?Hello World>
+              </Hello World>
        </style>       
 </head>
